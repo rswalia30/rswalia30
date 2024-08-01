@@ -1,9 +1,9 @@
 # Hi there, I'm Rohit Singh Walia! 👋
 
 - 👋 Hi, I’m @rswalia30
-- 👀 I’m interested in web development, machine learning, and real-time data processing.
-- 🌱 I’m currently learning advanced data structures, algorithms, and machine learning techniques.
-- 💞️ I’m looking to collaborate on exciting web development projects and innovative machine learning applications.
+- 👀 I’m interested in web development, machine learning, and SpringBoot.
+- 🌱 I’m currently learning SpringBoot, React, and Advanced Data Structures and Algorithms.
+- 💞️ I’m looking to collaborate on exciting web development projects and innovative SpringBoot applications.
 - 📫 How to reach me: 
   - Email: waliarohit2001@gmail.com
   - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
